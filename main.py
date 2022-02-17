@@ -30,7 +30,7 @@ if not found:
 # variables for filtering playlists
 
 name_check = "The Sound of"
-offset = 4500
+offset = 0
 n_genres = 6325  # upper bound to reflect the n of playlists the user has
 
 
